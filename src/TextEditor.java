@@ -224,10 +224,13 @@ public class TextEditor {
 				
 			if (input == JOptionPane.YES_OPTION) {
 				save();
-				}
-			}else {
+				System.exit(0);
+				} else if(input == JOptionPane.NO_OPTION) {
+				openFile = null;
 				System.exit(0);
 			}
+			
 		} 
 	}
+}
 
