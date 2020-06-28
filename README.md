@@ -11,3 +11,9 @@ Features:
 - Save existing files or save with a new name
 - Close file with warning to save or not
 - Exit program with warning to save or not
+
+Screenshots:
+
+<img src="images/File%20Contents.png" width = "800">
+
+<img src="images/Menu%20Bar.png" width = "800">
