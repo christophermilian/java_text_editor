@@ -5,3 +5,9 @@ Software and Toolkits used:
 - Eclipse IDE
 - Swing GUI Toolkit
 - AWT GUI Toolkit
+
+Features:
+- Open files
+- Save existing files or save with a new name
+- Close file with warning to save or not
+- Exit program with warning to save or not
