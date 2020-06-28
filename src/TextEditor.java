@@ -65,7 +65,7 @@ public class TextEditor {
 
 		frame = new JFrame();
 		frame.setTitle("Untitled - " + TITLE);
-		frame.setBounds(100, 100, 815, 620);
+		frame.setBounds(100, 100, 943, 671);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(new BorderLayout(0, 0));
 
