@@ -1,5 +1,5 @@
 # Text Editor (Java)
-A simple text editor made with Java. This is just a project to learn GUI programming with Java. 
+A simple text editor made with Java to run on Windows. This project was made to learn desktop GUI programming with Java. 
 
 Software and Toolkits used:
 - Eclipse IDE
