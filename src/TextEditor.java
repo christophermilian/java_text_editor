@@ -14,12 +14,13 @@ import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.UIManager;
+import javax.swing.ScrollPaneConstants;
 
 import java.io.File;
 
 import java.util.Scanner;
 import java.util.Formatter;
-import javax.swing.ScrollPaneConstants;
+
 
 public class TextEditor {
 
